@@ -41,7 +41,7 @@
   "dependencies": {
     "assetgraph": "^3.0.0-35",
     "async": "^2.1.2",
-    "lodash": "^4.16.4",
+    "lodash": "^4.16.5",
     "optimist": "^0.6.1",
     "request": "^2.75.0",
     "tap-render": "^0.1.7",
